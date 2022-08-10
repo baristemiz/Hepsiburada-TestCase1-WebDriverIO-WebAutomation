@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//h3[contains(text(),'Lenovo V14 ITL Gen2 Intel Core i5 1135G7 8GB 512GB')]"
+}
